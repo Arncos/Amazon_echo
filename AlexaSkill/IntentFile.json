@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "YOUR_INTENT_1"
+    },
+    {
+      "slots": [
+        {
+          "name": "CallSlot",
+          "type": "SlotType"
+        }
+      ],
+      "intent": "YOUR_INTENT_2"
+    }
+  ]
+}
